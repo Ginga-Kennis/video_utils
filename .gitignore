@@ -1,0 +1,4 @@
+.venv/
+video/
+*.mp4
+*.mov
